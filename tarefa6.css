@@ -1,0 +1,10 @@
+
+	      .riscar { text-decoration:line-through; color:red;}
+          figure {
+                    width: 50%;
+                    text-align: center;
+                    border: thin black solid;
+                    margin: 1 px;
+                    padding: 2 px;
+                 }
+          #tamanho {width:50%;}
